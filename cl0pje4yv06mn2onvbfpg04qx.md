@@ -153,3 +153,5 @@ export default App;
 
 And it's done,
 You have successfully created your first react project and integrated SAWO API in it.
+
+Join the [SAWO LABS Community](https://discord.gg/2rXHRTTtzE) to know more about it
